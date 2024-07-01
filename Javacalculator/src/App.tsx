@@ -69,7 +69,7 @@ const calculate = () => {
 };
   return (
     <>
-      <div className = "container">
+      <div className="container">
         <h1>Javascript Calculator</h1>
         <div id="calculator">
           <div id="display" style={{textAlign:"right"}}>
